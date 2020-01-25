@@ -1,0 +1,47 @@
+.row {
+    padding: 2px 2px 2px 2px;
+}
+#cell-1 {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+#cell-2 {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+#cell-3 {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+#cell-4 {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}
+#cell-5 {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+#cell-6 {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+#cell-7 {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}
+#cell-8 {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+#cell-9 {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}

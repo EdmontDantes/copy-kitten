@@ -1,4 +1,4 @@
-#button{
+#button {
     display: inline-block;
     background-color: #3386C1;
     color: #FFFF;
@@ -7,13 +7,17 @@
     border: none;
     border-radius: 6px;
     text-decoration: none;
-    box-shadow: 0 3px 2px 2px #1E5175;
+    -moz-box-shadow: 0 3px 2px 0px #1E5175;
+    -webkit-box-shadow: 3px 2px 0px #1E5175;
+    box-shadow: 0 3px 2px 0px #1E5175;
     text-transform: capitalize;
 }
-#button:hover{
+#button:hover {
     background-color: #3DA1E8;
 }
-#button:active{
-    box-shadow: 0 1px #1E5175;
+#button:active {
+    -moz-box-shadow: 0 1px 2px 0px #1E5175;
+    -webkit-box-shadow: 0 1px 2px 0px #1E5175;
+    box-shadow: 0 1px 2px 0px #1E5175;
     transform: translateY(3px);
 }
