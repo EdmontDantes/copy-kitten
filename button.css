@@ -7,9 +7,9 @@
     border: none;
     border-radius: 6px;
     text-decoration: none;
-    -moz-box-shadow: 0 3px 2px 0px #1E5175;
-    -webkit-box-shadow: 3px 2px 0px #1E5175;
-    box-shadow: 0 3px 2px 0px #1E5175;
+    -moz-box-shadow: 0px 3px 2px 0px #1E5175;
+    -webkit-box-shadow:0px 3px 2px 0px #1E5175;
+    box-shadow: 0px 3px 2px 0px #1E5175;
     text-transform: capitalize;
 }
 #button:hover {
